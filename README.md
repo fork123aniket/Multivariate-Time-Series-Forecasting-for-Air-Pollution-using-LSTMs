@@ -1,4 +1,4 @@
-# Multivariate Time Seies Forecasting for Air Pollution using LSTMs
+# Multivariate Time Series Forecasting for Air Pollution using LSTMs
 This repository provides the code to develop an ***LSTM*** model for ***multivariate time series forecasting*** to predict the pollution at the current hour ***(t)*** given the pollution measurement and weather conditions at the prior time step.
 ## Requirements
 - `numpy`
