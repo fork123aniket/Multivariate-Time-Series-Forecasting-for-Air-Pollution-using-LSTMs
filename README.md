@@ -13,7 +13,7 @@ This repository provides the code to develop an ***LSTM*** model for ***multivar
 ### Model Building and Training
 - To train the ***LSTM*** model on merely single previous time step window setting and test it in the same setting, run `Train_On_Single_Lag_Timesteps.py`
 - To train the ***LSTM*** model on multiple previous time steps, run `Train_On_Multiple_Lag_Timesteps.py`
-- All hyperparamters to control training and testing of the model in single as well as multiple time step window settings are provided in their respective `.py` files.
+- All hyperparameters to control training and testing of the model in single as well as multiple time step window settings are provided in their respective `.py` files.
 - The average and validation set losses are printed after every epoch.
 ## Results
 | Line Plots of Air Pollution Time Series        | Performance of the *LSTM* model on Single Lag Timesteps Example           | Performance of the *LSTM* model on Multiple Lag Timesteps Example           |
